@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Protfolio</string>
+
+    <string name="protfolio_title">My Protfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="movies">Popular Movies</string>
+    <string name="scores">SCORES APP</string>
+    <string name="libary">LIBRARY APP</string>
+    <string name="bigger">BUILD IT BIGGER</string>
+    <string name="xyz">XYZ READER</string>
+    <string name="capstone">CAPSTONE : MY OWN APP</string>
+</resources>
